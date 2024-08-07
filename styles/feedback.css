@@ -36,7 +36,7 @@
 
 
 .bg-image{
-    background-image: url(../assests/feedback\ banner\ pic.webp);
+    background-image: url(/assets/feedback\ banner\ pic.webp);
     width: 100%;
     height: 598px;
 }
